@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/martincubilla/Documents/Proyectos/AppViewGif/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-base/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7ba22785d529a9cd95f714ca782a59846a22ce02">
+        <dex dex="/Users/martincubilla/Documents/Proyectos/AppViewGif/android/app/build/intermediates/pre-dexed/debug/classes-bb339a6389771be6efb1fab5128c0dbf5895f39d.jar" />
+    </item>
+    <item
+        jar="/Users/martincubilla/Documents/Proyectos/AppViewGif/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-gif/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e359c53b444598bf7973f1cbf31c8dc769e19f">
+        <dex dex="/Users/martincubilla/Documents/Proyectos/AppViewGif/android/app/build/intermediates/pre-dexed/debug/classes-f5879f2fefebb57b9dfdb2bec1fa88128f9a0a3b.jar" />
+    </item>
+    <item
+        jar="/Users/martincubilla/Documents/Proyectos/AppViewGif/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="/Users/martincubilla/Documents/Proyectos/AppViewGif/android/app/build/intermediates/pre-dexed/debug/classes-940338c5b6f4ebbae16f4542700b791ac8c9263c.jar" />
+    </item>
+    <item
+        jar="/Users/martincubilla/Documents/Proyectos/AppViewGif/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="/Users/martincubilla/Documents/Proyectos/AppViewGif/android/app/build/intermediates/pre-dexed/debug/classes-9959d9cd9b024faea6d3dc6d25cebda0b7ef8fe5.jar" />
+    </item>
+    <item
+        jar="/Users/martincubilla/Documents/Proyectos/AppViewGif/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="/Users/martincubilla/Documents/Proyectos/AppViewGif/android/app/build/intermediates/pre-dexed/debug/classes-be2c4199f2f140d4e9261831d1eb49b19fb9263b.jar" />
+    </item>
+
+</items>
